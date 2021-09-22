@@ -1,0 +1,4 @@
+Hello World
+Hello Again
+Goodbye
+pyhton is a object oritented programming language.it is   very easy to understand
